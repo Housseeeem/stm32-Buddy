@@ -1,0 +1,9 @@
+transformers
+torch
+sentence-transformers
+faiss-cpu
+langchain
+huggingface_hub[hf_xet]
+accelerate
+bitsandbytes
+gradio
